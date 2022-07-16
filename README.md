@@ -1,6 +1,5 @@
  # Pima Indians Diabetes Project
- ------------------------------
-
+ 
  ###Input Dataset
  
  ===============
