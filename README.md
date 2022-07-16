@@ -1,12 +1,12 @@
  # Pima Indians Diabetes Project
  
- ##Input Dataset
+ ### Input Dataset
  
  ===============
  
  https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
- ##Dataset details
+ ### Dataset details
  
  ===============
  
