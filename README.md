@@ -1,14 +1,16 @@
- # Pima_Indians_Diabetes_Project
+ # Pima Indians Diabetes Project
  ------------------------------
 
  ###Input Dataset
  
  ===============
+ 
  https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
  ###Dataset details
  
  ===============
+ 
  1: Pregnancies: Number of times pregnant
  
  2: Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
