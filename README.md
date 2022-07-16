@@ -2,10 +2,12 @@
  ------------------------------
 
  ###Input Dataset
+ 
  ===============
  https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
  ###Dataset details
+ 
  ===============
  1: Pregnancies: Number of times pregnant
  
